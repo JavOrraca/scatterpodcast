@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on Scatter Podcast</title>
+    <link>/podcast/</link>
+    <description>Recent content in Podcast on Scatter Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020 Scatter Podcast. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Episode 26: RStudio</title>
+      <link>/podcast/episode-026/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-026/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-026&#34;&gt;Episode 26 of Scatter Podcast&lt;/a&gt;, I interviewed guest Jonathan Regenstein, Director of Financial Services at RStudio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 25: Business Science</title>
+      <link>/podcast/episode-025/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-025/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-025&#34;&gt;Episode 25 of Scatter Podcast&lt;/a&gt;, I interviewed guest Matt Dancho, CEO and lead Data Science instructor at Business Science University.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 24: Google &amp; IE</title>
+      <link>/podcast/episode-024/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-024/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-024&#34;&gt;Episode 24 of Scatter Podcast&lt;/a&gt;, I interviewed Christina Stathopoulos, Analytical Consultant at Google and Adjunct Professor at IE Business School in Madrid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 23: Blizzard</title>
+      <link>/podcast/episode-023/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-023/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-023&#34;&gt;Episode 23 of Scatter Podcast&lt;/a&gt;, I interviewed Hayden Balow, Organizational Development Analyst at Blizzard Entertainment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 22: UPenn</title>
+      <link>/podcast/episode-022/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-022/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-022&#34;&gt;Episode 22 of Scatter Podcast&lt;/a&gt;, I had an engaging interview with Will Chase, Data Scientist at the University of Pennsylvania.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 21: Zeff</title>
+      <link>/podcast/episode-021/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-021/</guid>
+      <description>&lt;p&gt;For &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-021&#34;&gt;Episode 21 of Scatter Podcast&lt;/a&gt;, I had a great discussion with Ben Taylor, the Co-Founder and Chief AI Officer at Zeff.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 20: MaCher</title>
+      <link>/podcast/episode-020/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-020/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-020&#34;&gt;Episode 20 of Scatter Podcast&lt;/a&gt;, I had a lot of fun hosting industrial designer Ben Denzinger, Product Designer at MaCher.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 19: Amazon</title>
+      <link>/podcast/episode-019/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-019/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-019&#34;&gt;Episode 19 of Scatter Podcast&lt;/a&gt;, I discuss data science at Amazon with John Peach, Sr. Data Scientist.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 18: Saatchi &amp; Saatchi</title>
+      <link>/podcast/episode-018/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-018/</guid>
+      <description>&lt;p&gt;For &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-018&#34;&gt;Episode 18 of Scatter Podcast&lt;/a&gt;, I interviewed &lt;a href=&#34;https://www.linkedin.com/in/leondrajames/&#34;&gt;Leondra R. James&lt;/a&gt;, Manager of Analytics and Operations at Saatchi + Saatchi.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 17: ViralGains</title>
+      <link>/podcast/episode-017/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-017/</guid>
+      <description>&lt;p&gt;For &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-017&#34;&gt;Episode 17 of Scatter Podcast&lt;/a&gt;, I interviewed &lt;a href=&#34;https://www.linkedin.com/in/justin-fortier-4563554/&#34;&gt;Justin Fortier&lt;/a&gt;, Principal Data Scientist at ViralGains.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 16: MeridianLink</title>
+      <link>/podcast/episode-016/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-016/</guid>
+      <description>&lt;p&gt;For &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-016&#34;&gt;Episode 16 of Scatter Podcast&lt;/a&gt;, I had a great time interviewing &lt;a href=&#34;https://www.linkedin.com/in/ben-lewis-ba379144/&#34;&gt;Ben Lewis&lt;/a&gt;, Business Intelligence Analyst at MeridianLink.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 15: GM</title>
+      <link>/podcast/episode-015/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-015/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-015&#34;&gt;Episode 15 of Scatter Podcast&lt;/a&gt;, I had the pleasure of interviewing &lt;a href=&#34;https://www.linkedin.com/in/meltemballan/&#34;&gt;Meltem Ballan, Ph.D.&lt;/a&gt;, Data Scientist and Architect at General Motors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 14: Fehr &amp; Peers</title>
+      <link>/podcast/episode-014/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-014/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-014&#34;&gt;Episode 14 of Scatter Podcast&lt;/a&gt;, I interview &lt;a href=&#34;https://www.linkedin.com/in/david-j-wasserman/&#34;&gt;David Wasserman, AICP&lt;/a&gt;, Transportation Planner and Data Scientist at Fehr + Peers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 13: Method Data Science</title>
+      <link>/podcast/episode-013/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-013/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-013&#34;&gt;Episode 13 of Scatter Podcast&lt;/a&gt;, I had a great time interviewing &lt;a href=&#34;https://www.linkedin.com/in/beauthescientist/&#34;&gt;Beau Walker&lt;/a&gt;, Founder and CEO of Method Data Science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 12: TBWA/Chiat/Day</title>
+      <link>/podcast/episode-012/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-012/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-012&#34;&gt;Episode 12 of Scatter Podcast&lt;/a&gt;, guest &lt;a href=&#34;https://www.linkedin.com/in/segalmatt/&#34;&gt;Matt Segal&lt;/a&gt;, Data Director at TBWA/Chiat/Day, discusses his work at one of the most well-known creative advertising agencies in the world.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 11: CBRE</title>
+      <link>/podcast/episode-011/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-011/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-011&#34;&gt;Episode 11 of Scatter Podcast&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/vincegiovannini/&#34;&gt;Vince Giovannini&lt;/a&gt; discusses his work as a Data Scientist at CBRE, a commercial real estate investment company that offers a wide range of real estate consulting services.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 10: FortyFour</title>
+      <link>/podcast/episode-010/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-010/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-010&#34;&gt;Episode 10 of Scatter Podcast&lt;/a&gt;, we host guest &lt;a href=&#34;https://www.linkedin.com/in/theryananderson/&#34;&gt;Ryan Anderson&lt;/a&gt;, Director of Performance Marketing and Analytics at FortyFour.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 9: RealBlocks</title>
+      <link>/podcast/episode-009/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-009/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-009&#34;&gt;Episode 9 of Scatter Podcast&lt;/a&gt;, we are excited to release this interview with &lt;a href=&#34;https://www.linkedin.com/in/perrinq/&#34;&gt;Perrin Quarshie&lt;/a&gt;, CEO &amp;amp; Founder of RealBlocks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 8: Chegg</title>
+      <link>/podcast/episode-008/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-008/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-008&#34;&gt;Episode 8 of Scatter Podcast&lt;/a&gt;, guest &lt;a href=&#34;https://www.linkedin.com/in/taranveer/&#34;&gt;Taranveer Singh&lt;/a&gt; talks about his work as a Data Scientist at &lt;a href=&#34;https://www.chegg.com/&#34;&gt;Chegg&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 7: NeoGenomics Laboratories</title>
+      <link>/podcast/episode-007/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-007/</guid>
+      <description>&lt;p&gt;On &lt;a href=&#34;https://soundcloud.com/scatterpodcast/episode-007&#34;&gt;Episode 7 of Scatter Podcast&lt;/a&gt;, guest &lt;a href=&#34;https://www.linkedin.com/in/nicholas-stavrou/&#34;&gt;Nicholas Stavrou&lt;/a&gt; discusses his work as an Associate Scientist in Computational Biology at &lt;a href=&#34;https://neogenomics.com/&#34;&gt;NeoGenomics Laboratories&lt;/a&gt;, a cancer diagnostic and pharma research company.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 6: T-Mobile</title>
+      <link>/podcast/episode-006/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-006/</guid>
+      <description>&lt;p&gt;For the sixth episode of Scatter Podcast, I am excited to introduce &lt;a href=&#34;https://www.linkedin.com/in/juanpablomurillo/&#34;&gt;Juan Pablo Murillo&lt;/a&gt;, Data Scientist at T-Mobile at their U.S. headquarters in Bellevue, WA.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episode 5: Databricks</title>
+      <link>/podcast/episode-005/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episode-005/</guid>
+      <description>&lt;p&gt;New episode of Scatter Podcast is online with &lt;a href=&#34;https://www.linkedin.com/in/raphaelkurlansik/&#34;&gt;Rafi Kurlansik&lt;/a&gt; of Databricks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Episodes 1-4: Launch!</title>
+      <link>/podcast/episodes-001-004/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/episodes-001-004/</guid>
+      <description>&lt;p&gt;Welcome to the official Scatter Podcast launch! Episodes 001-004 are now available featuring an intro and guest interviews from The Home Depot, Pacific Life, and NYC and Company!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

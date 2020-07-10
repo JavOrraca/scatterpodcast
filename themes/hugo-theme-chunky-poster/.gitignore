@@ -12,4 +12,4 @@ node_modules/
 *.scss.map
 
 # Local Netlify folder
-.Rproj.user
+.netlify

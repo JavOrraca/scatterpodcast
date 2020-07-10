@@ -1,0 +1,5 @@
+[build]
+    publish = "scatterpodcast_main/public"
+    
+[context.production.environment]
+  HUGO_VERSION = "0.41"

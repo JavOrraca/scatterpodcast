@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Scatter Podcast</title>
+    <link>/tags/index/</link>
+    <description>Recent content in index on Scatter Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020 Scatter Podcast. All rights reserved.</copyright>
+    
+	<atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>/blog/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>/podcast/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/podcast/</guid>
+      <description>Scatter Podcast, hosted by Javier Orraca and Joel Dayrit, gives a voice to data professionals to discuss trends in business analytics, machine learning, artificial intelligence, and data science.
+Stream and subscribe to Scatter Podcast on your platform of choice. We&amp;rsquo;re available on SoundCloud, iTunes &amp;amp; Apple Podcasts, Spotify, TuneIn, Google Play Music, Stitcher Radio, Castbox, Podcast Republic, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+baseURL = "/"
+title = "Scatter Podcast"
+copyright = "© 2020 Scatter Podcast. All rights reserved."
+paginate = 2
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "hugo-theme-chunky-poster"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+  [[menu.main]]
+    identifier = "podcast"
+    name = "Podcast"
+    url = "/podcast/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "authors"
+    name = "Authors"
+    url = "/authors/"
+    weight = 4
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Scatter Podcast"
+  description = "Analytics. Data Science. Career Guidance."
+  #homepageImage = "/images/main_logo.png"
+  share = true
+  showLanguageSwitcher = false
+
+  [params.social]
+    rss = true
+    email = "info@scatterpodcast.com"
+    twitter = "https://twitter.com/Scatter_Podcast"
+    linkedin = "https://linkedin.com/company/scatter-podcast"
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = true
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
